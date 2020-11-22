@@ -19,6 +19,8 @@ void pa(vector <int> &A, vector <int> &B)
         ft_rev_list(A);
         A.push_back(B[0]);
         ft_rev_list(A);
+        B.erase(0);
+        ra(B);
     }
 
 }
