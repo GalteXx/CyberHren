@@ -12,13 +12,16 @@ void ft_rev_list(vector<int> &A) {
     }
 }
 
-void pa(vector <int> &A, vector <int> &B)
+void pb(vector <int> &A, vector <int> &B)
 {
     if(A.size() > 0)
     {
         ft_rev_list(B);
         B.push_back(A[0]);
         ft_rev_list(B);
+        A.erase(0);
+        ra(A);
     }
+}
 
 }
