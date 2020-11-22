@@ -20,7 +20,6 @@ void pb(vector <int> &A, vector <int> &B)
         B.push_back(A[0]);
         ft_rev_list(B);
         A.erase(0);
-        ra(A);
     }
 }
 
