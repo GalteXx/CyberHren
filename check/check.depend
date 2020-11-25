@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1606330135 source:d:\tets\check\ft_getline_v_vector.cpp
+	"y12.h"
+
+1606330135 d:\tets\check\y12.h
+	<iostream>
+	<vector>
+	<string>
+
+1606330135 source:d:\tets\check\ft_rev_list.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ft_super_shift_list.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\isnumber.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\pa.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\pb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ra.cpp
+	"y12.h"
+
