@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1606659386 source:d:\tets\check\ft_getline_v_vector.cpp
+	"y12.h"
+
+1606660248 d:\tets\check\y12.h
+	<iostream>
+	<vector>
+	<string>
+
+1606330135 source:d:\tets\check\ft_rev_list.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ft_super_shift_list.cpp
+	"y12.h"
+
+1606659928 source:d:\tets\check\isnumber.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\pa.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\pb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ra.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rr.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rra.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rrb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rrr.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\sa.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\sb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ss.cpp
+	"y12.h"
+
+1606517369 source:d:\tets\check\func1.cpp
+	<iostream>
+	<vector>
+
+1606661334 source:d:\tets\check\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"y12.h"
+	<windows.h>
+	<conio.h>
+
+1606660475 source:d:\tets\check\otsort_mass.cpp
+	"y12.h"
+
+1606660475 source:d:\tets\check\three_el_a.cpp
+	"y12.h"
+
+1606660499 source:d:\tets\check\size_4.cpp
+	"y12.h"
+
+1606660475 source:d:\tets\check\size_5.cpp
+	"y12.h"
+

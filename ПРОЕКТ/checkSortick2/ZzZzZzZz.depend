@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1606051250 source:d:\tets\zzzzzzzz\ra.cpp
+	"y1.h"
+
+1606057431 d:\tets\zzzzzzzz\y1.h
+	<iostream>
+	<vector>
+	<string>
+
+1606051476 source:d:\tets\zzzzzzzz\ft_super_shift_list.cpp
+	"y1.h"
+
+1606059591 source:d:\tets\zzzzzzzz\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"y1.h"
+	<windows.h>
+	<cmath>
+
+1606051825 source:d:\tets\zzzzzzzz\rb.cpp
+	"y1.h"
+
+1606051825 source:d:\tets\zzzzzzzz\rr.cpp
+	"y1.h"
+
+1606051727 source:d:\tets\zzzzzzzz\rra.cpp
+	"y1.h"
+
+1606051825 source:d:\tets\zzzzzzzz\rrb.cpp
+	"y1.h"
+
+1606051825 source:d:\tets\zzzzzzzz\rrr.cpp
+	"y1.h"
+
+1606052365 source:d:\tets\zzzzzzzz\ft_rev_list.cpp
+	"y1.h"
+
+1606059881 source:d:\tets\zzzzzzzz\pb.cpp
+	"y1.h"
+
+1606053077 source:d:\tets\zzzzzzzz\pa.cpp
+	"y1.h"
+
+1606053594 source:d:\tets\zzzzzzzz\sa.cpp
+	"y1.h"
+
+1606053665 source:d:\tets\zzzzzzzz\sb.cpp
+	"y1.h"
+
+1606053826 source:d:\tets\zzzzzzzz\ss.cpp
+	"y1.h"
+
+1606059799 source:d:\tets\zzzzzzzz\execute.cpp
+	"y1.h"
+
+1606057751 source:d:\tets\zzzzzzzz\isnumber.cpp
+	"y1.h"
+
+1606057431 source:d:\tets\zzzzzzzz\ft_getline_v_vector.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\execute.cpp
+	"y1.h"
+
+1606661792 d:\tets\checksortick2\y1.h
+	<iostream>
+	<vector>
+	<string>
+
+1606622038 source:d:\tets\checksortick2\ft_getline_v_vector.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\ft_rev_list.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\ft_super_shift_list.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\isnumber.cpp
+	"y1.h"
+
+1606661841 source:d:\tets\checksortick2\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"y1.h"
+	<windows.h>
+
+1606622038 source:d:\tets\checksortick2\pa.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\pb.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\ra.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\rb.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\rr.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\rra.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\rrb.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\rrr.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\sa.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\sb.cpp
+	"y1.h"
+
+1606622038 source:d:\tets\checksortick2\ss.cpp
+	"y1.h"
+
