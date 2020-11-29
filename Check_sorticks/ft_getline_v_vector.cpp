@@ -1,11 +1,10 @@
 #include"y1.h"
 
-void ft_geline_v_vector(vector<int>&A)
+void ft_geline_v_vector(string str, vector<int>&A)
 {
-    string str;
+
     int o = 0;
     bool isNegative = false;
-    getline(cin, str);
     for(int i = 0; str[i] != '\0'; i++)
     {
         if(str[i] == 32)
