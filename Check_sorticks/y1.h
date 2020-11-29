@@ -10,7 +10,7 @@ using namespace std;
 void ft_rev_list(vector<int>& mass);
 void ft_super_shift_list(vector<int>& mass, int n);
 bool isNumber(string str);
-void ft_geline_v_vector(string str,vector<int>&A);
+void ft_geline_v_vector(vector<int>&A);
 
 void sa(vector <int> &A);
 void sb(vector <int> &A);
