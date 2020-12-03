@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="sb.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="isNumber.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="13" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="223" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ss.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="rr.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="func1.cpp" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="88" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="rb.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="16" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="79" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sa.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ft_getline_v_vector.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="73" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="pb.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="otsort_mass.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="161" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="ra.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="16" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="rra.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2079" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="size_4.cpp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ft_super_shift_list.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="335" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="y12.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="798" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ft_rev_list.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="rrr.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="pa.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="three_el_A.cpp" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="595" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="size_5.cpp" open="1" top="1" tabpos="22" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="418" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="rrb.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
