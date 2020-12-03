@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1606659386 source:d:\tets\check\ft_getline_v_vector.cpp
+	"y12.h"
+
+1606660248 d:\tets\check\y12.h
+	<iostream>
+	<vector>
+	<string>
+
+1606330135 source:d:\tets\check\ft_rev_list.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ft_super_shift_list.cpp
+	"y12.h"
+
+1606659928 source:d:\tets\check\isnumber.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\pa.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\pb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ra.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rr.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rra.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rrb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\rrr.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\sa.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\sb.cpp
+	"y12.h"
+
+1606330135 source:d:\tets\check\ss.cpp
+	"y12.h"
+
+1606517369 source:d:\tets\check\func1.cpp
+	<iostream>
+	<vector>
+
+1606661334 source:d:\tets\check\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"y12.h"
+	<windows.h>
+	<conio.h>
+
+1606660475 source:d:\tets\check\otsort_mass.cpp
+	"y12.h"
+
+1606660475 source:d:\tets\check\three_el_a.cpp
+	"y12.h"
+
+1606660499 source:d:\tets\check\size_4.cpp
+	"y12.h"
+
+1606660475 source:d:\tets\check\size_5.cpp
+	"y12.h"
+
+1606659386 source:c:\users\asus_maximus\desktop\опнейр\sortic\ft_getline_v_vector.cpp
+	"y12.h"
+
+1606669594 c:\users\asus_maximus\desktop\опнейр\sortic\y12.h
+	<iostream>
+	<vector>
+	<string>
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\ft_rev_list.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\ft_super_shift_list.cpp
+	"y12.h"
+
+1606517369 source:c:\users\asus_maximus\desktop\опнейр\sortic\func1.cpp
+	<iostream>
+	<vector>
+
+1606659928 source:c:\users\asus_maximus\desktop\опнейр\sortic\isnumber.cpp
+	"y12.h"
+
+1606661445 source:c:\users\asus_maximus\desktop\опнейр\sortic\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"y12.h"
+	<windows.h>
+	<conio.h>
+
+1606669770 source:c:\users\asus_maximus\desktop\опнейр\sortic\otsort_mass.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\pa.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\pb.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\ra.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\rb.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\rr.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\rra.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\rrb.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\rrr.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\sa.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\sb.cpp
+	"y12.h"
+
+1606669602 source:c:\users\asus_maximus\desktop\опнейр\sortic\size_4.cpp
+	"y12.h"
+
+1606669770 source:c:\users\asus_maximus\desktop\опнейр\sortic\size_5.cpp
+	"y12.h"
+
+1606330135 source:c:\users\asus_maximus\desktop\опнейр\sortic\ss.cpp
+	"y12.h"
+
+1606660475 source:c:\users\asus_maximus\desktop\опнейр\sortic\three_el_a.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\ft_getline_v_vector.cpp
+	"y12.h"
+
+1606936048 c:\users\asus_maximus\desktop\sortic\y12.h
+	<iostream>
+	<vector>
+	<string>
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\ft_rev_list.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\ft_super_shift_list.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\func1.cpp
+	<iostream>
+	<vector>
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\isnumber.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"y12.h"
+	<windows.h>
+	<conio.h>
+
+1606978040 source:c:\users\asus_maximus\desktop\sortic\otsort_mass.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\pa.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\pb.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\ra.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\rb.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\rr.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\rra.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\rrb.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\rrr.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\sa.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\sb.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\size_4.cpp
+	"y12.h"
+
+1606978077 source:c:\users\asus_maximus\desktop\sortic\size_5.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\ss.cpp
+	"y12.h"
+
+1606936048 source:c:\users\asus_maximus\desktop\sortic\three_el_a.cpp
+	"y12.h"
+
